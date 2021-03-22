@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1579530829 source:c:\users\roksi\desktop\mcprojekt\main.cpp
+	<iostream>
+	<gsl/gsl_rng.h>
+	<cmath>
+	<fstream>
+
